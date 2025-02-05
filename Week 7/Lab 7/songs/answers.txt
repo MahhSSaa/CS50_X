@@ -1,0 +1,34 @@
+Question :
+    If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+Answer :
+    1- Speechiness : One of the features I use to characterize songs is speechiness, which measures the presence of spoken words or lyrics in a song.
+       By calculating the average speechiness for the top 100 songs, we can assess the level of lyrical content in the listener's music.
+
+    2- Loudness : Another feature I utilize to characterize songs is loudness, which measures the overall volume of a songs.
+       Analyzing the average loudness can provide insights into whether the listener's top songs tend to be louder or quieter in nature.
+
+    3- Tempo : The third feature I employ for this purpose is Tempo, which indicates the speed or tempo of songs and is measured in BPM(beats per minutes).
+       By calculating the average tempo of the top 100 songs, we can comprehend the overall tempo preference of the listener
+
+Question :
+    Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener.
+    What better ways of calculating this aura would you propose?
+Answer:
+    The method of calculating an "audio aura" based on average audio features is not representative because:
+    * People have diverse musical tastes and averages oversimplify emotions. 
+    * Music's emotional impact is subjective and personal and can be influenced by the listener's mood
+    * Statistical results based on digits can be skewed by outliers..
+    * It is important to consider context, as songs are often experienced in sequences.
+
+    To improve my suggestion is :
+    * Emotion analysis: Instead of solely focusing on audio features, use natural language processing to analyze songs' lyrics, comments, and reviews.
+      This can help capture the emotional content of the music more accurately.
+
+    * Genre and Artist analysis: This can provide insight into the listener's musical preferences and emotional associations.
+
+    * Playlist analysis: Analyze the structure and order of songs on the listening playlist.
+
+    * Contextual analysis: Explore how and when listeners listen to specific songs, such as during exercise, relaxation, or work.
+      Also, analyze at what time of day or month they listen to certain songs
+
+    * Interactive Apps: Develop interactive apps or tools that allow listeners to directly express their emotions or moods associated with specific songs or playlists.
