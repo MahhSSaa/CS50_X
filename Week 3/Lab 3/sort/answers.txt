@@ -1,0 +1,13 @@
+sort1 uses: Bubble sort
+
+How do you know?: i checked sort1, sort2, and sort 3 on reveresed5000 and reversed50000. i realized that sort1 takes the most time. therefor as we know that Bubble Sort is the slowest method for searching on a reversed list
+
+sort2 uses: Merge Sort
+
+How do you know?: i checked sort1, sort2, and sort 3 on reveresed5000 and reversed50000. i realized that sort2 takes the least time. therefor as we know that Merge Sort is the fastes method for searching on a reversed list
+
+
+sort3 uses: Selection Sort
+
+How do you know?: i checked sort1, sort2, and sort 3 on reveresed5000 and reversed50000. i realized that sort3 takes the average time. therefor as we know that Selection Sort is the method that takes the average time for searching on a reversed list
+
